@@ -1,7 +1,7 @@
 {
     "client_version"     : 43,
-    "client_repo_url"    : "https://github.com/AndyGrant/OpenBench",
-    "client_repo_ref"    : "master",
+    "client_repo_url"    : "https://github.com/yunusemreyldz07/SoloEngine",
+    "client_repo_ref"    : "main",
 
     "fastchess_min_version" : "1.7.0",
     "fastchess_repo_url"    : "https://github.com/AndyGrant/fastchess",
@@ -28,6 +28,7 @@
     ],
 
     "engines" : [
+        "SoloEngine",
         "4ku",
         "Berserk",
         "Bit-Genie",
