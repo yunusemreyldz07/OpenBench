@@ -1,6 +1,6 @@
 {
     "client_version"     : 43,
-    "client_repo_url"    : "https://github.com/yunusemreyldz07/SoloEngine",
+    "client_repo_url"    : "https://github.com/yunusemreyldz07/Solo",
     "client_repo_ref"    : "main",
 
     "fastchess_min_version" : "1.7.0",
