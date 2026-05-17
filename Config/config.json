@@ -29,6 +29,7 @@
 
     "engines" : [
         "SoloEngine",
+        "Potential",
         "4ku",
         "Berserk",
         "Bit-Genie",
